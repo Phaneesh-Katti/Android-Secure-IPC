@@ -10,8 +10,6 @@ This project consists of two Android apps (**Producer** and **Consumer**) that s
 android-secure-ipc/
 ️️ producer/        # Producer App (Generates and provides tokens)
 ️️ Consumer/        # Consumer App (Receives and displays tokens)
-️️ README.md        # This documentation file
-️️ .gitignore       # Ignore unnecessary files (build, .gradle, etc.)
 ```
 
 ---
